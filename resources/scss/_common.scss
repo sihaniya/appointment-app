@@ -1,0 +1,25 @@
+@import "./utilities/colors";
+@import "./utilities/variables";
+
+@import "./utilities/mixins";
+// @import "./layout/layout";
+
+@import "./thrid-party/bootstrap/bootstrap.scss";
+@import "./thrid-party/bootstrap";
+@import "./thrid-party/toastr";
+
+@import "./utilities/reset";
+
+// components
+@import "./components/content";
+@import "./components/avatar";
+@import "./components/forms";
+@import "./components/table";
+@import "./components/buttons";
+
+@import "./layouts/admin";
+@import "./layouts/be_auth";
+@import "./layouts/frontend";
+// @import "./layout/be_admin";
+// @import "./layout/be_sidebar";
+// @import "./layout/be_header";
